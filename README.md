@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
 <meta charset="UTF-8">
 <title>プライバシーポリシー</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <style>
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -13,19 +14,13 @@ body {
   margin: auto;
   color: #222;
 }
-h1 {
-  font-size: 24px;
-  margin-bottom: 16px;
-}
-h2 {
-  font-size: 18px;
-  margin-top: 24px;
-}
-p {
-  margin: 8px 0;
-}
+h1 { font-size: 24px; margin-bottom: 16px; }
+h2 { font-size: 18px; margin-top: 24px; }
+p { margin: 8px 0; }
 </style>
+
 </head>
+
 <body>
 
 <h1>プライバシーポリシー</h1>
